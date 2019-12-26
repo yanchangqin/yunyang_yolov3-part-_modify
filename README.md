@@ -1,0 +1,4 @@
+# yunyang_yolov3-part-_modify
+源码来自于yunyang大神，地址为：https://github.com/YunYang1994/tensorflow-yolov3
+源码中在train的时候将没有groundtruth的图片都筛掉了，只留下了有groundtruth的图片，我做的修改是可以同时训练有groundtruth和没有groundtruth的图片
+如有不对的地方，欢迎批评指正！
